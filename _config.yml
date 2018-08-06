@@ -1,6 +1,6 @@
 # Site settings
 title: yyyer's Blog # 你的博客名字，可以定义修订
-header-img: "img/green.jpg"
+header-img: "https://avatars1.githubusercontent.com/u/41376397?s=400&u=7fdba4c9728f02177d54fbe560dca077d0797e30&v=4"
 tagline: "cn"  
 description: "一个苦逼初中森的自建Blog"  # 一句话描述你的博客
 baseurl: ""
