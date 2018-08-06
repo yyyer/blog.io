@@ -13,8 +13,8 @@ owner:
   bio: "一花一世界，一生为一人。" # 填写作者信息：博客描述
 
 # Data
-gavatar: img/favicon.png # 浏览器地址栏小图标，可自定义更改
-favicon: img/favicon.png # 浏览器地址栏小图标，可自定义更改
+gavatar: https://avatars1.githubusercontent.com/u/41376397?s=400&u=7fdba4c9728f02177d54fbe560dca077d0797e30&v=4 # 浏览器地址栏小图标，可自定义更改
+favicon: https://avatars1.githubusercontent.com/u/41376397?s=400&u=7fdba4c9728f02177d54fbe560dca077d0797e30&v=4 # 浏览器地址栏小图标，可自定义更改
 
 douban_username:  # 你的豆瓣id
 twitter_username: 
